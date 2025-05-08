@@ -4,3 +4,4 @@
  It contains the main interface that displays a welcome message ( index.html) and an area dedicated to the products that thay are sold (shop.html),
  in addition to the corner of communication with admine of this website (contact.html)  , and the shopping cart corner (cart.html).
  
+and to see the website : https://abderraouf-taibi.github.io/usma-shop/
